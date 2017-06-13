@@ -1,4 +1,4 @@
 # Running-Statistics
-Store and display running statistic
-Technology:
+Store and display running statistic  
+Technology:  
   Node.JS
